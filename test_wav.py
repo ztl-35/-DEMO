@@ -9,7 +9,6 @@ sampwidth = 2
 TIME = 2
 # test git command-ruxian-new
 # test a conflict
-# test a master
 def save_wave_file(filename, data):
     '''save the date to the wavfile'''
     wf = wave.open(filename, 'wb')
