@@ -7,7 +7,7 @@ NUM_SAMPLES = 2000
 channels = 1
 sampwidth = 2
 TIME = 2
-# test git command-ruxian
+# test git command-ruxian-new
 
 def save_wave_file(filename, data):
     '''save the date to the wavfile'''
